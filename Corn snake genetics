@@ -1,0 +1,41 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corn Snake Genetics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Corn Snake Genetics</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#genetics-guide">Genetics Guide</a></li>
+                <li><a href="#morph-catalog">Morph Catalog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <h2>Welcome to Corn Snake Genetics</h2>
+        <p>Learn all about the fascinating genetics behind corn snake morphs and how to breed them.</p>
+    </section>
+    <section id="genetics-guide">
+        <h2>Genetics Guide</h2>
+        <p>Here, we explore the principles of corn snake genetics, including dominant and recessive traits, Punnett squares, and more.</p>
+    </section>
+    <section id="morph-catalog">
+        <h2>Morph Catalog</h2>
+        <p>Discover different corn snake morphs with detailed descriptions and images.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>For inquiries, please reach out to us via email.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Corn Snake Genetics</p>
+    </footer>
+</body>
+</html>
